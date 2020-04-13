@@ -1,0 +1,13 @@
+K = 1,  Train English, Test Others           a = 22.3134
+K = 5,  Train English, Test Others           a = 25.2675
+K = 10, Train English, Test Others           a = 27.4203
+
+K = 1,  Train Native, Test Others            a = 20.6047
+K = 5,  Train Native, Test Others            a = 22.3901
+K = 10, Train Native, Test Others            a = 22.7155
+
+--- random 60% train, 40% test
+
+K = 1,     a =   60.1555
+K = 5,     a =   60.1358 
+K = 10,    a =   53.9551

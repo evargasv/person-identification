@@ -1,0 +1,22 @@
+audio with codebook
+
+1. Test
+
+train = 60% of the data randomly
+test = 40% of the data randomly
+
+accuracy: 81.98%
+
+2. Test
+
+train = english
+test = native and other
+
+accuracy: 66.67%
+
+3. Train
+
+train = native and other
+test = english
+
+accuracy: 80%
